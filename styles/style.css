@@ -1,0 +1,41 @@
+/*
+robot
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+font-family: 'Roboto', sans-serif;
+
+indie flower
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+font-family: 'Indie Flower', cursive;
+*/
+html {
+  font-size: 10px; /*字体大小，10个像素*/
+  font-family: Indie Flower; /*a google font*/
+  background-color: #00539F;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 5px 5px 5px black;
+}
+
+p, li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FF9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
